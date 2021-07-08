@@ -53,10 +53,10 @@ h2.resp-accordion {
 }
 
 .resp-tab-active {
-  border-bottom: 4px solid #ffa41f;
+  border-bottom: 4px solid #1da748;
   margin-bottom: -1px !important;
   position: relative;
-  background: #ffa41f;
+  background: #1da748;
   color: #2A2B2F;
 }
 
@@ -65,7 +65,7 @@ h2.resp-accordion {
   position: absolute;
   width: 0;
   height: 0;
-  border-top: 10px solid #ffa41f;
+  border-top: 10px solid #1da748;
   border-left: 10px solid rgba(69, 42, 21, 0);
   border-right: 10px solid rgba(199, 57, 57, 0);
   left: 45%;
@@ -78,7 +78,7 @@ h2.resp-accordion {
 }
 
 .resp-tab-active {
-  background-color: #ffa41f;
+  background-color: #1da748;
   color: #2A2B2F;
 }
 
@@ -235,7 +235,7 @@ h2.resp-accordion:first-child {
     color: #fff;
   }
   .resp-arrow {
-    border-top: 12px solid #ffa41f;
+    border-top: 12px solid #1da748;
   }
 }
 
